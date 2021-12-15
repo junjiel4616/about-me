@@ -16,9 +16,9 @@
 <h2>Personal Information</h2>
 Birthday: July 20, 2006 <br>
 Height: 5'9? <br>
-Weight: No idea
-School: High School of Telecommunication Arts and Technology
-Email: junjiel4616@hstat.org
+Weight: No idea <br>
+School: High School of Telecommunication Arts and Technology <br>
+Email: junjiel4616@hstat.org <br>
 <h5>Hobbies</h5>
 <ul>
     <li>Taking naps</li>
