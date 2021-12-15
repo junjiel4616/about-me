@@ -1,5 +1,7 @@
 <h1>Jun Jie Li</h2>
 
+<h2>Bio</h2>
+<p>JunJie Li, a highschool student that does ok at school, went to ps176 for elementary then to Shallow for middle. Likes to sleep, play games and somwhat does biking these days. Currently 15, living a nice life.
 <h2>2021 Schedule</h2>
 <ul>
     <li>1pd:Algebra 2</li>
