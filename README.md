@@ -17,6 +17,7 @@
 Birthday: July 20, 2006 <br>
 Height: 5'9? <br>
 Weight: No idea
+Email: junjiel4616@hstat.org
 <h5>Hobbies</h5>
 <ul>
     <li>Taking naps</li>
